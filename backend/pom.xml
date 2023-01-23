@@ -61,6 +61,11 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-maven-plugin</artifactId>
+            <version>8.5.0</version>
+        </dependency>
     </dependencies>
 
     <packaging>jar</packaging>
